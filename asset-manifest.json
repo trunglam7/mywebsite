@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mywebsite/static/css/main.4368dc35.css",
+    "main.js": "/mywebsite/static/js/main.148d2dea.js",
+    "static/media/CocoonOfChaos.mp4": "/mywebsite/static/media/CocoonOfChaos.f634167e6c385f975792.mp4",
+    "static/media/cocoon_of_chaos.png": "/mywebsite/static/media/cocoon_of_chaos.77905af260ddb3e55a8e.png",
+    "static/media/mainbackground.png": "/mywebsite/static/media/mainbackground.3ce832fd88502768c047.png",
+    "static/media/skillsbackground.png": "/mywebsite/static/media/skillsbackground.ee3d53c7f944dd3c4209.png",
+    "static/media/mylogo.png": "/mywebsite/static/media/mylogo.42b4d2bc2679b0895e9f.png",
+    "index.html": "/mywebsite/index.html",
+    "main.4368dc35.css.map": "/mywebsite/static/css/main.4368dc35.css.map",
+    "main.148d2dea.js.map": "/mywebsite/static/js/main.148d2dea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4368dc35.css",
+    "static/js/main.148d2dea.js"
+  ]
+}
