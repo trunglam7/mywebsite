@@ -1,0 +1,42 @@
+.main .container{
+    position: relative;
+    height: 750px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.intro-statement{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+}
+
+video{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    object-fit: cover;
+    transform: scale(1.5);
+}
+
+@media screen and (max-width: 950px) {
+    .intro-statement{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .intro-statement{
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .intro-statement{
+        font-size: 12px;
+    }
+}
